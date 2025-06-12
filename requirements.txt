@@ -4,3 +4,33 @@ mypy_extensions==1.1.0
 packaging==25.0
 pathspec==0.12.1
 platformdirs==4.3.8
+# 核心科学计算
+numpy
+pandas
+scipy
+
+# 可视化
+matplotlib
+seaborn
+
+# 机器学习
+scikit-learn
+lightgbm
+xgboost
+
+# 深度学习（CUDA 版本可根据环境调整）
+torch
+torchvision
+
+# 图分析
+networkx
+
+# 统计分析
+statsmodels
+pingouin
+
+# 模型解释与可视化
+shap
+
+# 图像处理
+opencv-python
